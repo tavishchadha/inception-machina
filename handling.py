@@ -20,3 +20,5 @@ except Exception as e:
     print(e)
     print(dir(e))
     print(type(e))
+    
+# we added it here , just for fun
